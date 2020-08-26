@@ -10,3 +10,4 @@ and Tutorials that I found on the Internet and refined in one way or another
 3. Counter Buttons
 4. Message Delivery
 5. Quote Generator
+6. Post Slider
