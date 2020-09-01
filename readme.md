@@ -12,3 +12,4 @@ and Tutorials that I found on the Internet and refined in one way or another
 5. Quote Generator
 6. Post Slider
 7. Calculator - Beginner
+8. Calculator - Advanced
